@@ -1,2 +1,3 @@
 # hello-world
-My first repository!
+My name is Palak Munshi and this is my first repository!
+So excited :)
